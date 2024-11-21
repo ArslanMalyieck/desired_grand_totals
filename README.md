@@ -28,7 +28,7 @@ bench --site yoursite.botsolutions.com install-app desired_grand_totals
 
 bench --site yoursite.botsolutions.com migrate
 
-Goto Help->About and make sure you have Zatca app installaed.
+
 
 #### License
 
